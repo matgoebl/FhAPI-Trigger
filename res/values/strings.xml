@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FhAPI Trigger</string>
+    <string name="starting">starting...</string>
+    <string name="waiting">waiting...</string>
+    <string name="trigger_name">Trigger Name</string>
+    <string name="send_button">Update/Send</string>
+
+    <string name="baseUrl">https://user:pass@server:12345/fhapi/TriggerDevice/</string>
+</resources>
